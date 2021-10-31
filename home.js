@@ -6,3 +6,4 @@ if (guiestList.includes(gusest)) {
 else {
     alert("Not Welcome");
 }
+console.log(guiestList)
